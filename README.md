@@ -24,6 +24,8 @@
 - LLM 1:1 채팅 환경 구축 및 토큰 관리 전략
 - **Claude Code, Cursor 등 AI 코딩 툴 사용법 숙지**
 
+<br>
+
 </td>
 </tr>
 </table>
